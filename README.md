@@ -5,7 +5,7 @@ Kenneth Leo Hansen
 Frederik Blem
 Simon Bojesen
 
-
+# Stage 1:
 ## Idea 1 : Kidney disease prediction
 ### Focus of interest:
 To detect possibility of chronic kidney disease given certain parameters.
@@ -35,3 +35,7 @@ It will prevent some accidents from occuring.
 An ai which can determine if the person in the image/video has his eyes closed, and then play an alert if that is the case.
 ### Who will the user be:
 Occupational truck drivers for example.
+
+# Stage 2
+
+ETL
