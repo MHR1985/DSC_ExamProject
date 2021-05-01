@@ -43,7 +43,7 @@ Occupational truck drivers for example.
 
 ##  Kidney disease prediction
 ### Part 2 ELT and part 3 Data processing scenario 
-[Click here to see part 2 & 3 of Kidney Disease](Python/liverNotebook.ipynb)
+[Click here to see part 2 & 3 of Kidney Disease](Python/kidneyNotebook.ipynb)
 
 
 
