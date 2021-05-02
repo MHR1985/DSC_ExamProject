@@ -43,7 +43,7 @@ Occupational truck drivers for example.
 [Notebook](Python/kidneyNotebook.ipynb)
 <br/>
 #### Datastory:
-With the data we have gathered we will try to find out which columns matter when detecting chronic kidney disease. With the data we have visualised we can see that hemoglobin is a very important factor when diagnosing ckd, 
+With the data we have gathered we will try to find out which columns is a factor when detecting chronic kidney disease. With the data we have visualised we can see that hemoglobin is a very important factor when diagnosing ckd. We can also see that the older you get the higher chance of being diagnosed with chronic kidney disease.
 ![Dashboard](Images/dashboard/dashboard_kidney.png)
 
 ##  Fake News Detection
