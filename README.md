@@ -52,10 +52,11 @@ With the data we have gathered we will try to find out which columns is a factor
 
 ### Dashboard
 ![dashboard](Images/dashboard/news_dashboard.jpg)
-#### Datastory 
+#### Datastory
+The idea is to find word occurrences in the articles, and from these, determine if an article is true or fake news.
+
 In the figure on the right we can see that most articles with the subject "politicsNews" or "worldnews" fall in the category of true news, where the mean for the other subjects are fake news. It does not mean that fake news cannot have a subject of politicsNews for example, just that the average does not.
 
 The word occurrence figures show how many times a given word appears in the text/title. There is a lot of similarities found here for common words, but there is a few that stands out, for example in the word occurrence for fake news title, the word "Video" and "Watch" appears in this toplist, where it does not appear in the true news.
-
 
 ## Closed eyes facial recognition for sleepy drivers alert
