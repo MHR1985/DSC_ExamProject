@@ -49,7 +49,7 @@ Occupational truck drivers for example.
 
 [Notebook](Python/NewsPrediction.ipynb)
 
-![dashboard](Images/Dashboard/news_dashboard.jpg)
+![dashboard](Images/dashboard/news_dashboard.jpg)
 
 
 ## Closed eyes facial recognition for sleepy drivers alert
