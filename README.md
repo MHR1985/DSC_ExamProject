@@ -49,6 +49,7 @@ Occupational truck drivers for example.
 
 [Notebook](Python/NewsPrediction.ipynb)
 
+### Dashboard
 ![dashboard](Images/dashboard/news_dashboard.jpg)
 
 
