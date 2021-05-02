@@ -38,4 +38,16 @@ Occupational truck drivers for example.
 
 # Stage 2
 
-ETL
+## 1. All of the relevant  datasets are stored in the Data folder.
+
+
+##  Kidney disease prediction
+### Part 2 ELT and part 3 Data processing scenario 
+[Click here to see part 2 & 3 of Kidney Disease](Python/kidneyNotebook.ipynb)
+
+
+
+#  Fake News Detection
+
+
+## Closed eyes facial recognition for sleepy drivers alert
