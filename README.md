@@ -40,12 +40,13 @@ Occupational truck drivers for example.
 
 ## 1. All of the relevant  datasets are stored in the Data folder.
 
+### Part 2 ELT and part 3 Data processing scenario 
 
 ##  Kidney disease prediction
-### Part 2 ELT and part 3 Data processing scenario 
-[Click here to see part 2 & 3 of Kidney Disease](Python/kidneyNotebook.ipynb)
+[Notebook](Python/kidneyNotebook.ipynb)
+![dashboard](Images/dashboard/dashboard_kidney)
 
-#  Fake News Detection
+##  Fake News Detection
 
 [Notebook](Python/NewsPrediction.ipynb)
 
