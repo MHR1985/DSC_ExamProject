@@ -44,6 +44,7 @@ Occupational truck drivers for example.
 
 ##  Kidney disease prediction
 [Notebook](Python/kidneyNotebook.ipynb)
+<br/>
 ![dashboard](Images/dashboard/dashboard_kidney)
 
 ##  Fake News Detection
