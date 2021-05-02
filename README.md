@@ -1,9 +1,6 @@
 # DSC_ExamProject
 ## Authors:
-Martin Høigaard Cupello
-Kenneth Leo Hansen
-Frederik Blem
-Simon Bojesen
+Martin Høigaard Cupello, Kenneth Leo Hansen, Frederik Blem, Simon Bojesen
 
 # Stage 1:
 ## Idea 1 : Kidney disease prediction
@@ -52,7 +49,7 @@ Occupational truck drivers for example.
 [Notebook](Python/NewsPrediction.ipynb)
 
 ### Dashboard
-In the figure on the right we can see that most articles with the subject politicsNews or worldnews fall in the category of true news, where the mean for the other subjects are fake news. It does not mean that fake news cannot have a subject of politicsNews for example, just that the average does not.
+In the figure on the right we can see that most articles with the subject "politicsNews" or "worldnews" fall in the category of true news, where the mean for the other subjects are fake news. It does not mean that fake news cannot have a subject of politicsNews for example, just that the average does not.
 
 The word occurrence figures show how many times a given word appears in the text/title. There is a lot of similarities found here for common words, but there is a few that stands out, for example in the word occurrence for fake news title, the word "Video" and "Watch" appears many times.
 ![dashboard](Images/dashboard/news_dashboard.jpg)
