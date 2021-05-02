@@ -45,9 +45,11 @@ Occupational truck drivers for example.
 ### Part 2 ELT and part 3 Data processing scenario 
 [Click here to see part 2 & 3 of Kidney Disease](Python/kidneyNotebook.ipynb)
 
-
-
 #  Fake News Detection
+
+[Notebook](Python/NewsPrediction.ipynb)
+
+![dashboard](Images/Dashboard/news_dashboard.jpg)
 
 
 ## Closed eyes facial recognition for sleepy drivers alert
