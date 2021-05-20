@@ -46,6 +46,13 @@ Occupational truck drivers for example.
 With the data we have gathered we will try to find out which columns is a factor when detecting chronic kidney disease. With the data we have visualised we can see that hemoglobin is a very important factor when diagnosing ckd. We can also see that the older you get the higher chance of being diagnosed with chronic kidney disease.
 ![Dashboard](Images/dashboard/dashboard_kidney.png)
 
+## AI Module
+To create the AI Module we have split the data into 70% training data and 30% test data.
+By testing different machine learning algorithms, we created a model that provides 98,28% accuracy when diagnosing a patient with chronic kidney disease or not.
+In our tests the inaccuracy resulted only finding false negatives with an error rate of 3% when determining if a person has chronic kidney disease. Also during our tests there were no false positives, which means it has a 100% accuracy when determining if a patient does not have chronic kidne disease. 
+
+
+
 ##  Fake News Detection
 
 [Notebook](Python/NewsPrediction.ipynb)
