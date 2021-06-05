@@ -17,10 +17,10 @@ The best treatment for chronic kidney disease is to detect it early on. This way
 
 Otherwise if detected at a later stage a dialysis or transplant would be needed in many such cases.
 
-Sources: 
-https://www.nhs.uk/conditions/kidney-disease/treatment/
-https://www.kidney.org/news/newsroom/fsindex
-https://www.kidney.org/kidneydisease/global-facts-about-kidney-disease 
+Sources:<br> 
+https://www.nhs.uk/conditions/kidney-disease/treatment/<br>
+https://www.kidney.org/news/newsroom/fsindex<br>
+https://www.kidney.org/kidneydisease/global-facts-about-kidney-disease<br> 
 https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521
 
 ## Argumentation of Choices
