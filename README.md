@@ -133,6 +133,18 @@ One important aspect of better visualisation is that it enables better overview 
 
 One of the benefits of visualisation is to see trends over time, providing a basis to be able to make predictions. In order to make predictions you need to be able to see what has happened in the past and present, enabling you to predict the future.
 
+About the scene:
+The VR scene depicts the heat vector with its values and “weight colour scale” to enable the consumer to get an understanding of the visualization.
+Every sphere’s diameter is their positive difference from 0 as depicted through their scale values.  This means that the sodium sphere has a visualized diameter of 0.45 meters and it’s “weight colour” corresponds to its entry in the heat vector.
+
+![img](Images/virtualReality/SphereExplanation.png)
+
+VR SDK’s:
+The Unity project uses the SDK’s for “Oculus Desktop” and “OpenVR Desktop” in the 2019.3.0f6 version of Unity to provide Virtual Reality functionality with Oculus headsets and those compatible with SteamVR such as Vive, Valve Index and Windows Mixed Reality headsets.
+The build of the project is targeted towards 64Bit Windows machines.
+
+![img](Images/virtualReality/SDK_Explanation.png)
+
 # Authors:
 - Martin Høigaard Cupello
 - Kenneth Leo Hansen 
