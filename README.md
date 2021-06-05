@@ -77,6 +77,13 @@ Occupational truck drivers for example.
 With the data we have gathered we will try to find out which columns is a factor when detecting chronic kidney disease. With the data we have visualised we can see that hemoglobin is a very important factor when diagnosing ckd. We can also see that the older you get the higher chance of being diagnosed with chronic kidney disease.
 ![Dashboard](Images/dashboard/dashboard_kidney.png)
 
+On the dashboard can be seen different plots of data from the dataset.
+On the first plot can be seen the age distribution of all the tested patients. On the second plot it is then shown how age is a factor in the likelyhood of getting CKD, by showing the average age of patients who was classified as having CKD and also for the patients who did not have it.
+
+On the second row of plots the same thing is shown, not for the age, but for the hemoglobin levels tested in patients blood samples and how these levels relate to the classification.
+
+The heat vector here shows all the datasets features and scores how much they relate to the classification of the patients. The further from 0 they score, the bigger the impact, meaning the feature has more say to the classification then others.
+
 ### Fake News Detection
 
 [Notebook](Python/NewsPrediction.ipynb)
