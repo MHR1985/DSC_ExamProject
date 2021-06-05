@@ -42,7 +42,16 @@ We then decided to test with a validation sample with a size of 25, taken from t
 In the end we were able to create a model by using a decision tree that had an accuracy of 99%. With such a high accuracy rate the model is able to predict chronic kidney disease, given the correct information. This means the model is ready to use, and can be used in actual medical application. 
 
 ## Implementation Instructions
-In development
+In order to use the model in medical practice, we have saved our model in a pickle file. The doctors will then use the saved model. The doctors will then take a blood test, and ask the patient questions regarding the features we used in the dataset. They will then put this information into the model, and the model will then determine if the patient has chronic kidney disease or not.
+
+How to use the model:
+
+* First pull the project or download decisiontree_model.pkl from the project
+* Then run these lines of code in a notebook or another python ide:
+ * import pickle
+ *loaded_model = pickle.load(open('../data/decisiontree_model.pkl', 'rb')) (make sure the path to the file name is correct)
+* You can now use the model to predict ckd by running this line of code
+ *loaded_model.predict(insert your x array data here)
 
 # Descriptions of work and ideas from the 5 stages
 ## Stage 1:
