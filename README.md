@@ -48,10 +48,10 @@ How to use the model:
 
 * First pull the project or download decisiontree_model.pkl from the project
 * Then run these lines of code in a notebook or another python ide:
- * import pickle
- *loaded_model = pickle.load(open('../data/decisiontree_model.pkl', 'rb')) (make sure the path to the file name is correct)
+**import pickle
+**loaded_model = pickle.load(open('../data/decisiontree_model.pkl', 'rb')) (make sure the path to the file name is correct)
 * You can now use the model to predict ckd by running this line of code
- *loaded_model.predict(insert your x array data here)
+**loaded_model.predict(insert your x array data here)
 
 # Descriptions of work and ideas from the 5 stages
 ## Stage 1:
