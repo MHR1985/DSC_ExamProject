@@ -1,6 +1,7 @@
-# DSC_ExamProject
-## Authors:
-Martin Høigaard Cupello, Kenneth Leo Hansen, Frederik Blem, Simon Bojesen
+# Chronic Kidney Disease detection
+## Problem Objectives
+The problem that we want to solve is that many cases of Chronic Kidney Disease go undetected around the globe. We would solve this using machine learning, by getting a lot of information from a blood test, and training a model to correctly classify if a person has the disease or not. 
+We want the final model to have an error rate of under 5%.
 
 # Stage 1:
 ## Idea 1 : Kidney disease prediction
@@ -83,6 +84,8 @@ One important aspect of better visualisation is that it enables better overview 
 
 One of the benefits of visualisation is to see trends over time, providing a basis to be able to make predictions. In order to make predictions you need to be able to see what has happened in the past and present, enabling you to predict the future.
 
+## Authors:
+Martin Høigaard Cupello, Kenneth Leo Hansen, Frederik Blem, Simon Bojesen
 
 
 
