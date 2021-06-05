@@ -27,7 +27,7 @@ https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-c
 In development
 
 ## Outcomes
-We have a model that is ready to use, with an accuracy score of 99%. More???
+In the end we were able to create a model by using a decision tree that had an accuracy of 99%. With such a high accuracy rate the model is able to predict chronic kidney disease, given the correct information. This means the model is ready to use, and can be used in actual medical application. 
 
 ## Implementation Instructions
 In development
