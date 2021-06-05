@@ -24,7 +24,19 @@ https://www.kidney.org/kidneydisease/global-facts-about-kidney-disease<br>
 https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/symptoms-causes/syc-20354521
 
 ## Argumentation of Choices
-In development
+We decided to test with several models, as there is no distinct model which is better than all the others, it all depends on the dataset.
+ 
+We converted outliers to means instead of dropping them, as dropping them would lead to a small dataset. We determined outliers as those that were more than three standard deviations away from the mean (three sigma rule). 
+
+https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule
+
+We decided to test using the following classification models: KNN, Gaussian Naive Bayes, Multinomial Naive Bayes and Decision Tree, as these were some we had previous experience with.
+
+After we had tested the model and got some good accuracy scores, we still wanted to improve the models. In order to do this we decided to use the heat map, to remove the columns that had the least significant impact on the classification, because we wanted to clean the data from noise. 
+
+We decided to compare with newly created data that was generated randomly, because we wanted to see how the models performed with new data. It was not a good idea, since most of the features in the dataset are correlated.
+
+We then decided to test with a validation sample with a size of 25, taken from the dataset before any models were trained. We used this for a final comparison between the different iterations of models, to see if our model was actually able to determine if a person has chronic kidney disease. After we were sure that our model could do this we exported the best performing model.
 
 ## Outcomes
 In the end we were able to create a model by using a decision tree that had an accuracy of 99%. With such a high accuracy rate the model is able to predict chronic kidney disease, given the correct information. This means the model is ready to use, and can be used in actual medical application. 
@@ -78,7 +90,7 @@ With the data we have gathered we will try to find out which columns is a factor
 ![Dashboard](Images/dashboard/dashboard_kidney.png)
 
 On the dashboard can be seen different plots of data from the dataset.
-On the first plot can be seen the age distribution of all the tested patients. On the second plot it is then shown how age is a factor in the likelyhood of getting CKD, by showing the average age of patients who was classified as having CKD and also for the patients who did not have it.
+On the first histogram plot it can be seen the age distribution of all the tested patients. On the second plot it is then shown how age is a factor in the likelyhood of getting CKD, by showing the average age of patients who was classified as having CKD and also for the patients who did not have it.
 
 On the second row of plots the same thing is shown, not for the age, but for the hemoglobin levels tested in patients blood samples and how these levels relate to the classification.
 
