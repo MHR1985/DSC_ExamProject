@@ -13,7 +13,7 @@ The main causes of chronic kidney disease include high blood pressure and diabet
 
 The best treatment for chronic kidney disease is to detect it early on. This way you can begin to prevent further stages of it by making lifestyle changes or taking medicine for the symptoms.
 
-[img of disease stages here]
+![disease progression](Images/disease_progression.png)
 
 Otherwise if detected at a later stage a dialysis or transplant would be needed in many such cases.
 
@@ -115,7 +115,10 @@ One important aspect of better visualisation is that it enables better overview 
 One of the benefits of visualisation is to see trends over time, providing a basis to be able to make predictions. In order to make predictions you need to be able to see what has happened in the past and present, enabling you to predict the future.
 
 # Authors:
-Martin Høigaard Cupello, Kenneth Leo Hansen, Frederik Blem, Simon Bojesen
+- Martin Høigaard Cupello
+- Kenneth Leo Hansen 
+- Frederik Blem
+- Simon Bojesen
 
 
 
