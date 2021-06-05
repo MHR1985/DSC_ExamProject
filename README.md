@@ -11,7 +11,7 @@ Chronic Kidney disease is a condition that affects around 10% of the entire glob
 
 The main causes of chronic kidney disease include high blood pressure and diabetes. Other factors such as age, smoking, older age and heart and blood vessel disease, are also risk factors and may lead to chronic kidney disease.
 
-The best treatment for chronic kidney disease is to detect it early on. This way you can begin to prevent further stages of it by making lifestyle changes or taking medicine for the symptoms.
+The best treatment for chronic kidney disease is to detect it early on. This way you can begin to prevent further stages of it by making lifestyle changes and taking medicine for the symptoms.
 
 ![disease progression](Images/disease_progression.png)
 
