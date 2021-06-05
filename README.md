@@ -101,7 +101,7 @@ With the data we have gathered we will try to find out which columns is a factor
 On the dashboard can be seen different plots of data from the dataset.
 On the first histogram plot it can be seen the age distribution of all the tested patients. On the second plot it is then shown how age is a factor in the likelyhood of getting CKD, by showing the average age of patients who was classified as having CKD and also for the patients who did not have it.
 
-On the second row of plots the same thing is shown, not for the age, but for the hemoglobin levels tested in patients blood samples and how these levels relate to the classification.
+On the second row of plots the same thing is shown, not for the age, but for the hemoglobin levels tested in patients blood samples and how these levels relate to the classification. It is read that low hemoglobin levels often points to Chronic Kidney Disease.
 
 The heat vector here shows all the datasets features and scores how much they relate to the classification of the patients. The further from 0 they score, the bigger the impact, meaning the feature has more say to the classification then others.
 
