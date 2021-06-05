@@ -103,6 +103,10 @@ On the first histogram plot it can be seen the age distribution of all the teste
 
 On the second row of plots the same thing is shown, not for the age, but for the hemoglobin levels tested in patients blood samples and how these levels relate to the classification. It is read that low hemoglobin levels often points to Chronic Kidney Disease.
 
+The third row has split the group of patients depicted in the first plot into two based on whether they have CKD classified or not. Splitting the full group and showing them in two plots make it possible to see if there are sudden spikes in the occurence of CKD for specific age groups. Together the two plots show that the patients are primarily CKD-negative before around age 40 and there is a CKD-positive spike peaking at age 60 with almost 3 times as many CKD-positive patients compared to CKD-negative.
+
+Hemoglobin levels are displayed again on the fourth row and similarly split into CKD-negative and CKD-positive patient group plots. There is a very significant peak at the level of 12 where the ratio of CKD-positive versus CKD-negative is just above 8 to 1.
+
 The heat vector here shows all the datasets features and scores how much they relate to the classification of the patients. The further from 0 they score, the bigger the impact, meaning the feature has more say to the classification then others.
 
 ### Fake News Detection
